@@ -2,31 +2,31 @@
   "oshiraseDataList": [
     {
       "infoNum": "1",
-      "infoContentsKbn": "01",      
+      "infoContentsKbn": "06",      
       "koteiFlg": "1",
       "version":"v1"
     },
     {
       "infoNum": "2",
-      "infoContentsKbn": "02",      
+      "infoContentsKbn": "07",      
       "koteiFlg": "1",
       "version":"v1"
     },
     {
       "infoNum": "3",
-      "infoContentsKbn": "03",      
+      "infoContentsKbn": "08",      
       "koteiFlg": "1",
       "version":"v1"
     },
     {
       "infoNum": "4",
-      "infoContentsKbn": "04",      
+      "infoContentsKbn": "09",      
       "koteiFlg": "0",
       "version":"v1"
     },
     {
       "infoNum": "5",
-      "infoContentsKbn": "05",      
+      "infoContentsKbn": "10",      
       "koteiFlg": "0",
       "version":"v1"
     },
