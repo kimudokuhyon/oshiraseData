@@ -36,7 +36,9 @@
       "koteiFlg": "0",
       "version":"v1"
     },
-    "osrsSnkKbn":"1"
+    {
+      "osrsSnkKbn":"1"
+    }
     
     
   ]
