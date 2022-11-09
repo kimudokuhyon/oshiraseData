@@ -4,37 +4,43 @@
       "infoNum": "1",
       "infoContentsKbn": "01",      
       "koteiFlg": "1",
-      "version":"v1"
+      "version":"v1",
+      "comsosk6Cod":"組織コード6お知らせ1"
     },
     {
       "infoNum": "2",
       "infoContentsKbn": "02",      
       "koteiFlg": "1",
-      "version":"v1"
+      "version":"v1",
+      "comsosk6Cod":"組織コード6お知らせ2"
     },
     {
       "infoNum": "3",
       "infoContentsKbn": "03",      
       "koteiFlg": "1",
-      "version":"v1"
+      "version":"v1",
+      "comsosk6Cod":"組織コード6お知らせ3"
     },
     {
       "infoNum": "4",
       "infoContentsKbn": "04",      
       "koteiFlg": "1",
-      "version":"v1"
+      "version":"v1",
+      "comsosk6Cod":"組織コード6お知らせ4"
     },
     {
       "infoNum": "5",
       "infoContentsKbn": "",      
       "koteiFlg": "0",
-      "version":"v1"
+      "version":"v1",
+      "comsosk6Cod":"組織コード6お知らせ5"
     },
     {
       "infoNum": "6",
       "infoContentsKbn": "",      
       "koteiFlg": "0",
-      "version":"v1"
+      "version":"v1",
+      "comsosk6Cod":"組織コード6お知らせ6"
     },
     {
       "osrsSnkKbn":"1"
